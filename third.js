@@ -10,6 +10,4 @@ a = a + 1;
 b = b + 5;
 c = c + "String";
 
-console.log(a)
-console.log(b)
-console.log(c)
+console.log(a,b,c)
