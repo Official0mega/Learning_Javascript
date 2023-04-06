@@ -20,7 +20,7 @@ Stable release: ECMAScript 2021 / June 2021; 21 months ago
 Typing discipline: Dynamic, weak, duck
 Paradigm: Multi-paradigm: event-driven, functional, imperative, procedural, object-oriented programming
 ### Run
-To execute JavaScript in a browser you have two options — either put it inside a script element anywhere inside an HTML document, or put it inside an external JavaScript file (with a . js extension) and then reference that file inside the HTML document using an empty script element with a src attribute.
+To execute JavaScript in a browser you have two options — either put it inside a script element anywhere inside an HTML document, or put it inside an external JavaScript file (with a . js extension) and then reference that file inside the HTML document Using an empty script element with a src attribute.
 
 Your first look at JavaScript - WebPlatform.org
 https://webplatform.github.io › docs › tutorials › your_fi...
